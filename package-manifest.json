@@ -1,0 +1,18 @@
+{
+  "product_id": "JLZ-EDU-SK-030",
+  "repository_name": "edu-exam-paper-generator",
+  "product_type": "Skill",
+  "version": "1.0.0",
+  "package_path": "dist/edu-exam-paper-generator-v1.0.0.zip",
+  "sha256": "D477A07FEC137A7C5B67E823C1DDD82906603A2D5F856A02B1DBFA0379038A00",
+  "bytes": 4891,
+  "entries": [
+    "edu-exam-paper-generator/SKILL.md",
+    "edu-exam-paper-generator/references/DOMAIN_GUIDE.md",
+    "edu-exam-paper-generator/references/EXAMPLES.md",
+    "edu-exam-paper-generator/templates/OUTPUT_TEMPLATE.md"
+  ],
+  "built_at": "2026-11-06T22:14:48.4344497+08:00",
+  "status": "PACKAGE_READY",
+  "workbuddy_validation": "NOT_VERIFIED"
+}

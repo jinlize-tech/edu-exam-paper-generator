@@ -1,0 +1,24 @@
+{
+  "number": 36,
+  "product_id": "JLZ-EDU-SK-030",
+  "chinese_name": "试卷生成",
+  "english_name": "Exam Paper Generator",
+  "repository_name": "edu-exam-paper-generator",
+  "product_type": "Skill",
+  "category": "03 教学教研中心",
+  "version": "1.0.0",
+  "status": "PACKAGE_READY",
+  "workbuddy_validation": "NOT_VERIFIED",
+  "license": "Apache-2.0",
+  "baseline_tag": "education-product-baseline-v1.0.0",
+  "package_path": "dist/edu-exam-paper-generator-v1.0.0.zip",
+  "calculator": false,
+  "core_input": "年级学科、考试范围、教材版本、题量、题型、难度、时间和答案要求",
+  "main_output": "试卷、答题卡建议、参考答案、评分标准、难度分布和来源检查",
+  "package_entries": [
+    "edu-exam-paper-generator/SKILL.md",
+    "edu-exam-paper-generator/references/DOMAIN_GUIDE.md",
+    "edu-exam-paper-generator/references/EXAMPLES.md",
+    "edu-exam-paper-generator/templates/OUTPUT_TEMPLATE.md"
+  ]
+}
