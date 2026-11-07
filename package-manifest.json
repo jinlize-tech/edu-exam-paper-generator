@@ -2,17 +2,29 @@
   "product_id": "JLZ-EDU-SK-030",
   "repository_name": "edu-exam-paper-generator",
   "product_type": "Skill",
-  "version": "1.0.0",
-  "package_path": "dist/edu-exam-paper-generator-v1.0.0.zip",
-  "sha256": "D477A07FEC137A7C5B67E823C1DDD82906603A2D5F856A02B1DBFA0379038A00",
-  "bytes": 4891,
+  "version": "1.0.1",
+  "package_path": "dist/edu-exam-paper-generator-v1.0.1.zip",
+  "sha256": "AD08C3F3528456E90A83E408A0C067121E50A30D8953214999A721C352E3C342",
+  "bytes": 14570,
   "entries": [
     "edu-exam-paper-generator/SKILL.md",
     "edu-exam-paper-generator/references/DOMAIN_GUIDE.md",
     "edu-exam-paper-generator/references/EXAMPLES.md",
-    "edu-exam-paper-generator/templates/OUTPUT_TEMPLATE.md"
+    "edu-exam-paper-generator/templates/OUTPUT_TEMPLATE.md",
+    "edu-exam-paper-generator/README.md",
+    "edu-exam-paper-generator/USAGE.md",
+    "edu-exam-paper-generator/LICENSE",
+    "edu-exam-paper-generator/THIRD_PARTY_NOTICES.md",
+    "edu-exam-paper-generator/scripts/validate_input.js"
   ],
-  "built_at": "2026-11-06T22:14:48.4344497+08:00",
-  "status": "PACKAGE_READY",
-  "workbuddy_validation": "NOT_VERIFIED"
+  "license": "Apache-2.0",
+  "license_included": true,
+  "license_sha256": "CFC7749B96F63BD31C3C42B5C471BF756814053E847C10F3EB003417BC523D30",
+  "third_party_notice_included": true,
+  "previous_package_path": "dist/edu-exam-paper-generator-v1.0.0.zip",
+  "previous_package_sha256": "D477A07FEC137A7C5B67E823C1DDD82906603A2D5F856A02B1DBFA0379038A00",
+  "built_at": "2026-11-07T09:12:44.5509941+08:00",
+  "status": "GITHUB_PACKAGE_PRE_RELEASE_READY",
+  "runtime_status": "NOT_RUNTIME_VERIFIED",
+  "workbuddy_validation": "WORKBUDDY_VALIDATION_NOT_IN_SCOPE"
 }
